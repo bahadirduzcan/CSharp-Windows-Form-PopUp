@@ -1,0 +1,29 @@
+C:\Users\BAHADIR\Desktop\Bildiri\Bildiri\bin\Debug\Bildiri.exe
+C:\Users\BAHADIR\Desktop\Bildiri\Bildiri\bin\Debug\Bildiri.pdb
+C:\Users\BAHADIR\Desktop\Bildiri\Bildiri\obj\Debug\Bildiri.csprojAssemblyReference.cache
+C:\Users\BAHADIR\Desktop\Bildiri\Bildiri\obj\Debug\Bildiri.Form1.resources
+C:\Users\BAHADIR\Desktop\Bildiri\Bildiri\obj\Debug\Bildiri.Properties.Resources.resources
+C:\Users\BAHADIR\Desktop\Bildiri\Bildiri\obj\Debug\Bildiri.csproj.GenerateResource.cache
+C:\Users\BAHADIR\Desktop\Bildiri\Bildiri\obj\Debug\Bildiri.csproj.CoreCompileInputs.cache
+C:\Users\BAHADIR\Desktop\Bildiri\Bildiri\obj\Debug\Bildiri.exe
+C:\Users\BAHADIR\Desktop\Bildiri\Bildiri\obj\Debug\Bildiri.pdb
+D:\C# Uygulamalarım\Bildiri\Bildiri\bin\Debug\Bildiri.exe
+D:\C# Uygulamalarım\Bildiri\Bildiri\bin\Debug\Bildiri.pdb
+D:\C# Uygulamalarım\Bildiri\Bildiri\obj\Debug\Bildiri.csprojAssemblyReference.cache
+D:\C# Uygulamalarım\Bildiri\Bildiri\obj\Debug\Bildiri.Form1.resources
+D:\C# Uygulamalarım\Bildiri\Bildiri\obj\Debug\Bildiri.Properties.Resources.resources
+D:\C# Uygulamalarım\Bildiri\Bildiri\obj\Debug\Bildiri.csproj.GenerateResource.cache
+D:\C# Uygulamalarım\Bildiri\Bildiri\obj\Debug\Bildiri.csproj.CoreCompileInputs.cache
+D:\C# Uygulamalarım\Bildiri\Bildiri\obj\Debug\Bildiri.exe
+D:\C# Uygulamalarım\Bildiri\Bildiri\obj\Debug\Bildiri.pdb
+D:\C# Uygulamalarım\Bildiri\Bildiri\obj\Debug\Bildiri.Form2.resources
+D:\BAHADIR\C# Uygulamalarım\Bildiri\Bildiri\bin\Debug\Bildiri.exe.config
+D:\BAHADIR\C# Uygulamalarım\Bildiri\Bildiri\bin\Debug\Bildiri.exe
+D:\BAHADIR\C# Uygulamalarım\Bildiri\Bildiri\bin\Debug\Bildiri.pdb
+D:\BAHADIR\C# Uygulamalarım\Bildiri\Bildiri\obj\Debug\Bildiri.Form1.resources
+D:\BAHADIR\C# Uygulamalarım\Bildiri\Bildiri\obj\Debug\Bildiri.Form2.resources
+D:\BAHADIR\C# Uygulamalarım\Bildiri\Bildiri\obj\Debug\Bildiri.Properties.Resources.resources
+D:\BAHADIR\C# Uygulamalarım\Bildiri\Bildiri\obj\Debug\Bildiri.csproj.GenerateResource.cache
+D:\BAHADIR\C# Uygulamalarım\Bildiri\Bildiri\obj\Debug\Bildiri.csproj.CoreCompileInputs.cache
+D:\BAHADIR\C# Uygulamalarım\Bildiri\Bildiri\obj\Debug\Bildiri.exe
+D:\BAHADIR\C# Uygulamalarım\Bildiri\Bildiri\obj\Debug\Bildiri.pdb
